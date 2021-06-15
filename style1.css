@@ -1,0 +1,23 @@
+body{
+  background-color: aliceblue;
+}
+
+.question{
+  border: 1px solid #ddd;
+}
+
+.question span{
+  display: inline-block;
+}
+
+.question input{
+  width: 100px;
+  display: inline-block;
+}
+
+.btn{
+  display: block;
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
